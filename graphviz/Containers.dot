@@ -1,0 +1,29 @@
+digraph {
+  compound=true
+  graph [splines=polyline,rankdir=TB,ranksep=1.0,nodesep=1.0,fontsize=5]
+  node [shape=box,fontsize=5]
+  edge []
+
+  subgraph cluster_7 {
+    margin=25
+    11 [width=1.500000,height=1.000000,fixedsize=true,id=11,label="11: API Application"]
+    18 [width=1.500000,height=1.000000,fixedsize=true,id=18,label="18: Database"]
+    8 [width=1.500000,height=1.000000,fixedsize=true,id=8,label="8: Single-Page Application"]
+    9 [width=1.500000,height=1.000000,fixedsize=true,id=9,label="9: Mobile App"]
+    10 [width=1.500000,height=1.000000,fixedsize=true,id=10,label="10: Web Application"]
+  }
+  1 [width=1.333333,height=1.333333,fixedsize=true,id=1,label="1: Personal Banking Customer"]
+  4 [width=1.500000,height=1.000000,fixedsize=true,id=4,label="4: Mainframe Banking System"]
+  5 [width=1.500000,height=1.000000,fixedsize=true,id=5,label="5: E-mail System"]
+
+  1 -> 8 [id=29]
+  1 -> 10 [id=28]
+  9 -> 11 [id=37]
+  5 -> 1 [id=22]
+  8 -> 11 [id=33]
+  11 -> 18 [id=45]
+  10 -> 8 [id=31]
+  1 -> 9 [id=30]
+  11 -> 4 [id=47]
+  11 -> 5 [id=49]
+}

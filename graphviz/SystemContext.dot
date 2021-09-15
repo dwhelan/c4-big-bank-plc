@@ -6,21 +6,13 @@ digraph {
 
   subgraph cluster_enterprise {
     margin=25
-    2 [width=1.333333,height=1.333333,fixedsize=true,id=2,label="2: Customer Service Staff"]
-    3 [width=1.333333,height=1.333333,fixedsize=true,id=3,label="3: Back Office Staff"]
     4 [width=1.500000,height=1.000000,fixedsize=true,id=4,label="4: Mainframe Banking System"]
     5 [width=1.500000,height=1.000000,fixedsize=true,id=5,label="5: E-mail System"]
-    6 [width=1.500000,height=1.000000,fixedsize=true,id=6,label="6: ATM"]
     7 [width=1.500000,height=1.000000,fixedsize=true,id=7,label="7: Internet Banking System"]
   }
 
   1 [width=1.333333,height=1.333333,fixedsize=true,id=1,label="1: Personal Banking Customer"]
 
-  3 -> 4 [id=27]
-  6 -> 4 [id=26]
-  1 -> 6 [id=25]
-  2 -> 4 [id=24]
-  1 -> 2 [id=23]
   5 -> 1 [id=22]
   7 -> 5 [id=21]
   7 -> 4 [id=20]
