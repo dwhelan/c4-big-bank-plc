@@ -1,0 +1,171 @@
+2021-07-28 23:15:18,130 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-07-28 23:15:18,132 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-07-28 23:15:18,133 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-07-28 23:15:18,135 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-07-28 23:15:18,136 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-07-28 23:15:18,137 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-07-28 23:15:18,138 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-07-28 23:15:18,139 INFO  [ContextLoaderListener]                                                        
+2021-07-28 23:15:18,140 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-07-28 23:15:18,142 INFO  [ContextLoaderListener]  Build: 2457
+2021-07-28 23:15:18,144 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-07-28 23:15:18,158 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-07-28 23:15:18,159 INFO  [ContextLoaderListener] 
+2021-07-28 23:15:18,160 INFO  [ContextLoaderListener]  Memory: used=145MB; free=110MB; total=256MB; max=256MB
+2021-07-28 23:15:18,162 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-07-28 23:16:34,884 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-07-28 23:16:34,886 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-07-28 23:16:34,887 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-07-28 23:16:34,888 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-07-28 23:16:34,888 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-07-28 23:16:34,889 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-07-28 23:16:34,890 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-07-28 23:16:34,890 INFO  [ContextLoaderListener]                                                        
+2021-07-28 23:16:34,891 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-07-28 23:16:34,893 INFO  [ContextLoaderListener]  Build: 2457
+2021-07-28 23:16:34,894 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-07-28 23:16:34,905 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-07-28 23:16:34,906 INFO  [ContextLoaderListener] 
+2021-07-28 23:16:34,906 INFO  [ContextLoaderListener]  Memory: used=141MB; free=114MB; total=256MB; max=256MB
+2021-07-28 23:16:34,907 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-07-28 23:16:42,205 ERROR [FileSystemWorkspaceComponent] java.lang.NullPointerException
+2021-07-29 00:26:05,336 ERROR [FileSystemWorkspaceComponent] java.lang.NullPointerException
+2021-07-29 00:27:02,228 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-07-29 00:27:02,230 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-07-29 00:27:02,230 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-07-29 00:27:02,231 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-07-29 00:27:02,232 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-07-29 00:27:02,233 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-07-29 00:27:02,234 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-07-29 00:27:02,234 INFO  [ContextLoaderListener]                                                        
+2021-07-29 00:27:02,235 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-07-29 00:27:02,237 INFO  [ContextLoaderListener]  Build: 2457
+2021-07-29 00:27:02,239 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-07-29 00:27:02,251 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-07-29 00:27:02,253 INFO  [ContextLoaderListener] 
+2021-07-29 00:27:02,253 INFO  [ContextLoaderListener]  Memory: used=136MB; free=119MB; total=256MB; max=256MB
+2021-07-29 00:27:02,254 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-07-29 04:21:41,980 WARN  [View] There is no layout information for the element named NPI System on view Context
+2021-07-29 04:21:42,074 WARN  [View] There is no layout information for the element named NPI System on view Context
+2021-07-29 04:39:49,529 WARN  [View] There is no layout information for the element named NPI System on view Context
+2021-07-29 04:39:49,591 WARN  [View] There is no layout information for the element named NPI System on view Context
+2021-08-03 05:54:10,038 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-03 05:54:10,040 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-08-03 05:54:10,041 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-08-03 05:54:10,042 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-08-03 05:54:10,043 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-08-03 05:54:10,043 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-08-03 05:54:10,044 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-08-03 05:54:10,045 INFO  [ContextLoaderListener]                                                        
+2021-08-03 05:54:10,046 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-08-03 05:54:10,047 INFO  [ContextLoaderListener]  Build: 2457
+2021-08-03 05:54:10,049 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-08-03 05:54:10,060 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-08-03 05:54:10,061 INFO  [ContextLoaderListener] 
+2021-08-03 05:54:10,062 INFO  [ContextLoaderListener]  Memory: used=151MB; free=104MB; total=256MB; max=256MB
+2021-08-03 05:54:10,063 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-03 05:54:45,245 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-03 05:54:45,246 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-08-03 05:54:45,247 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-08-03 05:54:45,248 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-08-03 05:54:45,249 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-08-03 05:54:45,251 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-08-03 05:54:45,251 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-08-03 05:54:45,252 INFO  [ContextLoaderListener]                                                        
+2021-08-03 05:54:45,253 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-08-03 05:54:45,255 INFO  [ContextLoaderListener]  Build: 2457
+2021-08-03 05:54:45,256 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-08-03 05:54:45,267 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-08-03 05:54:45,269 INFO  [ContextLoaderListener] 
+2021-08-03 05:54:45,270 INFO  [ContextLoaderListener]  Memory: used=136MB; free=119MB; total=256MB; max=256MB
+2021-08-03 05:54:45,271 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-03 05:55:57,132 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-03 05:55:57,133 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-08-03 05:55:57,134 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-08-03 05:55:57,134 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-08-03 05:55:57,135 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-08-03 05:55:57,136 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-08-03 05:55:57,137 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-08-03 05:55:57,138 INFO  [ContextLoaderListener]                                                        
+2021-08-03 05:55:57,139 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-08-03 05:55:57,140 INFO  [ContextLoaderListener]  Build: 2457
+2021-08-03 05:55:57,142 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-08-03 05:55:57,153 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-08-03 05:55:57,154 INFO  [ContextLoaderListener] 
+2021-08-03 05:55:57,156 INFO  [ContextLoaderListener]  Memory: used=124MB; free=131MB; total=256MB; max=256MB
+2021-08-03 05:55:57,157 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-03 05:57:07,797 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-03 05:57:07,799 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-08-03 05:57:07,800 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-08-03 05:57:07,801 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-08-03 05:57:07,801 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-08-03 05:57:07,802 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-08-03 05:57:07,803 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-08-03 05:57:07,804 INFO  [ContextLoaderListener]                                                        
+2021-08-03 05:57:07,804 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-08-03 05:57:07,806 INFO  [ContextLoaderListener]  Build: 2457
+2021-08-03 05:57:07,808 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-08-03 05:57:07,819 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-08-03 05:57:07,821 INFO  [ContextLoaderListener] 
+2021-08-03 05:57:07,822 INFO  [ContextLoaderListener]  Memory: used=119MB; free=136MB; total=256MB; max=256MB
+2021-08-03 05:57:07,823 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-04 13:49:38,850 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-04 13:49:38,852 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-08-04 13:49:38,853 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-08-04 13:49:38,854 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-08-04 13:49:38,855 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-08-04 13:49:38,856 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-08-04 13:49:38,856 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-08-04 13:49:38,857 INFO  [ContextLoaderListener]                                                        
+2021-08-04 13:49:38,858 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-08-04 13:49:38,860 INFO  [ContextLoaderListener]  Build: 2457
+2021-08-04 13:49:38,861 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-08-04 13:49:38,876 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-08-04 13:49:38,877 INFO  [ContextLoaderListener] 
+2021-08-04 13:49:38,880 INFO  [ContextLoaderListener]  Memory: used=141MB; free=114MB; total=256MB; max=256MB
+2021-08-04 13:49:38,881 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-04 19:22:50,407 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-04 19:22:50,411 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-08-04 19:22:50,412 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-08-04 19:22:50,414 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-08-04 19:22:50,415 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-08-04 19:22:50,416 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-08-04 19:22:50,417 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-08-04 19:22:50,418 INFO  [ContextLoaderListener]                                                        
+2021-08-04 19:22:50,419 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-08-04 19:22:50,421 INFO  [ContextLoaderListener]  Build: 2457
+2021-08-04 19:22:50,422 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-08-04 19:22:50,437 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-08-04 19:22:50,438 INFO  [ContextLoaderListener] 
+2021-08-04 19:22:50,441 INFO  [ContextLoaderListener]  Memory: used=123MB; free=132MB; total=256MB; max=256MB
+2021-08-04 19:22:50,444 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-20 18:22:08,117 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-08-20 18:22:08,121 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-08-20 18:22:08,122 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-08-20 18:22:08,124 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-08-20 18:22:08,126 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-08-20 18:22:08,127 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-08-20 18:22:08,128 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-08-20 18:22:08,129 INFO  [ContextLoaderListener]                                                        
+2021-08-20 18:22:08,134 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-08-20 18:22:08,142 INFO  [ContextLoaderListener]  Build: 2457
+2021-08-20 18:22:08,144 INFO  [ContextLoaderListener]  Built: 2021-07-23T09:54:30Z
+2021-08-20 18:22:08,158 INFO  [ContextLoaderListener]  Structurizr DSL: v1.12.0
+2021-08-20 18:22:08,160 INFO  [ContextLoaderListener] 
+2021-08-20 18:22:08,163 INFO  [ContextLoaderListener]  Memory: used=150MB; free=105MB; total=256MB; max=256MB
+2021-08-20 18:22:08,164 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-09-15 00:09:27,192 INFO  [ContextLoaderListener] ***********************************************************************************
+2021-09-15 00:09:27,195 INFO  [ContextLoaderListener]    _____ _                   _              _          
+2021-09-15 00:09:27,195 INFO  [ContextLoaderListener]   / ____| |                 | |            (_)         
+2021-09-15 00:09:27,196 INFO  [ContextLoaderListener]  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+2021-09-15 00:09:27,197 INFO  [ContextLoaderListener]   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+2021-09-15 00:09:27,198 INFO  [ContextLoaderListener]   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+2021-09-15 00:09:27,199 INFO  [ContextLoaderListener]  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+2021-09-15 00:09:27,200 INFO  [ContextLoaderListener]                                                        
+2021-09-15 00:09:27,201 INFO  [ContextLoaderListener]  Structurizr Lite
+2021-09-15 00:09:27,204 INFO  [ContextLoaderListener]  Build: 2494
+2021-09-15 00:09:27,206 INFO  [ContextLoaderListener]  Built: 2021-09-06T16:04:51Z
+2021-09-15 00:09:27,224 INFO  [ContextLoaderListener]  Structurizr DSL: v1.13.0
+2021-09-15 00:09:27,225 INFO  [ContextLoaderListener] 
+2021-09-15 00:09:27,227 INFO  [ContextLoaderListener]  Memory: used=35MB; free=220MB; total=256MB; max=256MB
+2021-09-15 00:09:27,229 INFO  [ContextLoaderListener] ***********************************************************************************

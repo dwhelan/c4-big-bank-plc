@@ -1,0 +1,27 @@
+digraph {
+  compound=true
+  graph [splines=polyline,rankdir=TB,ranksep=1.0,nodesep=1.0,fontsize=5]
+  node [shape=box,fontsize=5]
+  edge []
+
+  subgraph cluster_enterprise {
+    margin=25
+    1 [width=1.500000,height=1.000000,fixedsize=true,id=1,label="1: Andy"]
+    2 [width=1.500000,height=1.000000,fixedsize=true,id=2,label="2: Geordie"]
+    3 [width=1.500000,height=1.000000,fixedsize=true,id=3,label="3: Report Checker"]
+  }
+
+  subgraph cluster_group_1 {
+    margin=25
+    18 [width=1.500000,height=1.000000,fixedsize=true,id=18,label="18: JFK"]
+    19 [width=1.500000,height=1.000000,fixedsize=true,id=19,label="19: SFTP Server"]
+  }
+
+  2 -> 3 [id=14]
+  2 -> 1 [id=13]
+  1 -> 3 [id=11]
+  1 -> 2 [id=12]
+  1 -> 18 [id=22]
+  18 -> 1 [id=21]
+  1 -> 19 [id=20]
+}
