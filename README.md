@@ -30,7 +30,7 @@ docker run -it --rm -p 8080:8080 -v %CD%:/usr/local/structurizr structurizr/lite
 
 Browse to http://localhost:8080 to see the generated diagrams.
 
-If you are running macOS or Linus you can simply use the `run` script:
+If you are running macOS or Linux you can simply use the `run` script:
 
 ```
 ./run
