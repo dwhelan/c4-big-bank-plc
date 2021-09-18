@@ -1,6 +1,6 @@
 # Big Bank PLC C4 Diagrams with Structurizr Lite
 
-This repo is built from instructions from [Getting started with Structurizr Lite](https://dev.to/simonbrown/getting-started-with-structurizr-lite-27d0) but uses the (Big Bank PLC)[https://structurizr.com/share/36141].
+This repo is built from instructions from [Getting started with Structurizr Lite](https://dev.to/simonbrown/getting-started-with-structurizr-lite-27d0) but uses the [Big Bank PLC](https://structurizr.com/share/36141) example.
 
 ## Install
 Make sure you have [Docker installed](https://docs.docker.com/get-docker/) and enter the following in a console:
