@@ -1,0 +1,7 @@
+#!/bin/sh
+docker pull structurizr/lite
+
+port=${1:-8081}
+docker run -d -it --rm -p ${port}:8080 -v `pwd`:/usr/local/structurizr structurizr/lite
+sleep 1
+open "http://localhost:${port}"

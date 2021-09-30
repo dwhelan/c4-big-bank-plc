@@ -21,24 +21,6 @@ subgraph cluster_69 {
 subgraph cluster_72 {
   margin=25
   label="72: Big Bank plc"
-  subgraph cluster_86 {
-    margin=25
-    label="86: bigbank-db02"
-    subgraph cluster_87 {
-      margin=25
-      label="87: Oracle - Secondary"
-      88 [width=1.500000,height=1.000000,fixedsize=true,id=88,label="88: Database"]
-    }
-  }
-  subgraph cluster_77 {
-    margin=25
-    label="77: bigbank-api***"
-    subgraph cluster_78 {
-      margin=25
-      label="78: Apache Tomcat"
-      79 [width=1.500000,height=1.000000,fixedsize=true,id=79,label="79: API Application"]
-    }
-  }
   subgraph cluster_90 {
     margin=25
     label="90: bigbank-prod001"
@@ -62,12 +44,30 @@ subgraph cluster_72 {
       75 [width=1.500000,height=1.000000,fixedsize=true,id=75,label="75: Web Application"]
     }
   }
+  subgraph cluster_77 {
+    margin=25
+    label="77: bigbank-api***"
+    subgraph cluster_78 {
+      margin=25
+      label="78: Apache Tomcat"
+      79 [width=1.500000,height=1.000000,fixedsize=true,id=79,label="79: API Application"]
+    }
+  }
+  subgraph cluster_86 {
+    margin=25
+    label="86: bigbank-db02"
+    subgraph cluster_87 {
+      margin=25
+      label="87: Oracle - Secondary"
+      88 [width=1.500000,height=1.000000,fixedsize=true,id=88,label="88: Database"]
+    }
+  }
 }
 
   84 -> 88 [id=93,ltail=cluster_83,lhead=cluster_87]
-  71 -> 79 [id=80]
+  68 -> 79 [id=80]
+  71 -> 79 [id=81]
   79 -> 91 [id=92]
-  68 -> 79 [id=81]
   75 -> 71 [id=76]
   79 -> 84 [id=85]
   79 -> 88 [id=89]

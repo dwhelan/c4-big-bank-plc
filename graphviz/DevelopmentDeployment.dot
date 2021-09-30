@@ -7,21 +7,6 @@ digraph {
 subgraph cluster_50 {
   margin=25
   label="50: Developer Laptop"
-  subgraph cluster_53 {
-    margin=25
-    label="53: Docker Container - Web Server"
-    subgraph cluster_54 {
-      margin=25
-      label="54: Apache Tomcat"
-      57 [width=1.500000,height=1.000000,fixedsize=true,id=57,label="57: API Application"]
-      55 [width=1.500000,height=1.000000,fixedsize=true,id=55,label="55: Web Application"]
-    }
-  }
-  subgraph cluster_51 {
-    margin=25
-    label="51: Web Browser"
-    52 [width=1.500000,height=1.000000,fixedsize=true,id=52,label="52: Single-Page Application"]
-  }
   subgraph cluster_59 {
     margin=25
     label="59: Docker Container - Database Server"
@@ -29,6 +14,21 @@ subgraph cluster_50 {
       margin=25
       label="60: Database Server"
       61 [width=1.500000,height=1.000000,fixedsize=true,id=61,label="61: Database"]
+    }
+  }
+  subgraph cluster_51 {
+    margin=25
+    label="51: Web Browser"
+    52 [width=1.500000,height=1.000000,fixedsize=true,id=52,label="52: Single-Page Application"]
+  }
+  subgraph cluster_53 {
+    margin=25
+    label="53: Docker Container - Web Server"
+    subgraph cluster_54 {
+      margin=25
+      label="54: Apache Tomcat"
+      55 [width=1.500000,height=1.000000,fixedsize=true,id=55,label="55: Web Application"]
+      57 [width=1.500000,height=1.000000,fixedsize=true,id=57,label="57: API Application"]
     }
   }
 }
