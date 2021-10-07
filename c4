@@ -1,0 +1,16 @@
+#!/bin/sh
+port=${1:-8080}
+
+docker pull -q structurizr/lite
+
+# Open the browser in the background and give Structurizr time to spin up.
+$(sleep 5 && open "http://localhost:${port}/workspace/diagrams") &
+
+# Prettier output
+red=$(tput setaf 1)
+green=$(tput setaf 2)
+reset=$(tput sgr0)
+
+echo "Showing ${green}Big Bank PLC${reset} workspace ... use ^C to quit${red}"
+docker run -it --rm -p ${port}:8080 -v $(pwd):/usr/local/structurizr structurizr/lite \
+    | grep 'ERROR com.structurizr.lite.web.ApiController'
