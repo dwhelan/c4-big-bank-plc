@@ -24,19 +24,24 @@ docker pull structurizr/lite
 docker run -it --rm -p 8080:8080 -v `pwd`:/usr/local/structurizr structurizr/lite
 ```
 
+**Windows Git bash**
+```
+docker pull structurizr/lite
+MSYS_NO_PATHCONV=1 docker run -it --rm -p 8080:8080 -v $(pwd):/usr/local/structurizr structurizr/lite
+```
 **Windows Powershell**
 ```
 docker pull structurizr/lite
-docker run -it --rm -p 8080:8080 -v $pwd:/usr/local/structurizr structurizr/lite
+docker run -it --rm -p 8080:8080 -v ${pwd}:/usr/local/structurizr structurizr/lite
 ```
 
-**Windows Command**
+**Windows Command Prompt**
 ```
 docker pull structurizr/lite
 docker run -it --rm -p 8080:8080 -v %CD%:/usr/local/structurizr structurizr/lite
 ```
 
-Browse to http://localhost:8080 to see the generated diagrams. Change the first port in the above commands if you want a different port.
+Browse to http://localhost:8080 to see the generated diagrams. Change the first port (-p **8080**:) in the above commands if you want a different port.
 
 If you are running macOS you can simply use the `c4` script which also opens your browser:
 
